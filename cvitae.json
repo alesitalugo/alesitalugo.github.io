@@ -1,0 +1,134 @@
+{
+  "personalInfo": {
+    "fullName": "Alejandra Lugo",
+    "email": "alesitalugo@gmail.com",
+    "avatarUrl": "https://media.licdn.com/media/p/2/005/0ab/304/136f942.jpg",
+    "description": "I am passionate about web development, I started by curiosity and the instruction of good teachers and friends. I consider myself as a self-taught person, who likes being in constant learning and to be trendy about web technologies.\nMy priority in the development is the user experience making interactive webapps, I consider as my favorite stack the use of tools like Grunt, with LiveReload and Sass/Compass for CSS. I Build mobile applications with PhoneGap.\nI am delighted with JavaScript and I'm currently learning to develop with frameworks like Angular and Node.js and strikes me using Arduino to interact with a webapp, I also love to create graphics with Processing and create sounds with SuperCollider."
+  },
+  "cover": {
+    "url": "https://www.flickr.com/photos/alesitalugo/2953944054/",
+    "attribution": "Alejandra Lugo @ Flickr"
+  },
+  "social": {
+    "github": "alesitalugo",
+    "linkedIn": "https://www.linkedin.com/profile/view?id=64936295"
+  },
+  "academic": [
+    {
+      "start": "2007-09-01",
+      "end": "2010-09-01",
+      "school": {
+        "name": "Universidad de Londres",
+        "url": "http://www.udlondres.com/licenciaturas/comunicacion_multimedia/index.html"
+      },
+      "degree": "Multimedia Communication",
+      "location": "Mexico City"
+    }
+  ],
+  "experience": [
+    {
+      "start": "2014-06-01",
+      "end": null,
+      "isCurrent": true,
+      "company": {
+        "name": "Radical Testa",
+        "url": "http://radicaltesta.com",
+        "linkedInUrl": "https://linkedin.com/company/2065241"
+      },
+      "position": "IT Manager & Frontend Developer",
+      "location": "Distrito Federal, Mexico",
+      "description": ""
+    },
+    {
+      "start": "2011-11-01",
+      "end": "2013-06-01",
+      "isCurrent": false,
+      "company": {
+        "name": "Vinco Orbis Proyectos",
+        "url": "http://vincoorbis.com",
+        "linkedInUrl": "https://linkedin.com/company/2511778"
+      },
+      "position": "Frontend Developer",
+      "location": "Mexico City, Mexico",
+      "description": ""
+    }, 
+    {
+    	"start": "2013-06-01", 
+    	"end": "2013-12-01",
+    	"isCurrent": false, 
+    	"company":{
+    		"name": "Digital Dealers", 
+    		"url": "http://digitaldealers.mx",
+    		"linkedInUrl": ""
+    	},
+    	"position": "Frontend Developer", 
+    	"location": "Mexico City, Mexico", 
+    	"description": ""
+    },
+    {
+    	"start": "2010-09-01", 
+    	"end": "2013-10-01",
+    	"isCurrent": false, 
+    	"company":{
+    		"name": "Alucina Studio", 
+    		"url": "http://alucinastudio.com",
+    		"linkedInUrl": ""
+    	},
+    	"position": "Frontend Developer [freelance]", 
+    	"location": "Mexico City, Mexico", 
+    	"description": ""
+    }
+  ],
+  "technologies": [
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "SVG"
+    },
+    {
+      "name": "CSS3 (Sass / Compass)"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "PhoneGap/Cordova"
+    },
+    {
+      "name": "PHP (CodeIgniter/WordPress)"
+    },
+    {
+      "name": "Photoshop"
+    }
+  ], 
+  "projects":[
+  	{
+  		"name": "centraal",
+  		"url": "http://centraal.com",
+  		"img": "http://placehold.it/280x150",
+  		"stack": "Design, WordPress, Sass, Grunt"
+  	},
+  	{
+  		"name": "esencial",
+  		"url": "http://frontesencial.masclicks.org/",
+  		"img": "http://placehold.it/280x150",
+  		"stack": "JavaScript, CSS3, CodeIgniter"
+  	},
+  	{
+  		"name": "My Combee app",
+  		"url": "",
+  		"img": "http://placehold.it/280x150",
+  		"stack": "PhoneGap, Sass, JavaScript"
+  	},
+  	{
+  		"name": "Wicked el musical",
+  		"url": "http://wickedelmusical.com.mx",
+  		"img": "http://placehold.it/280x150",
+  		"stack": "PhoneGap, Sass, JavaScript"
+  	}
+  ]
+}

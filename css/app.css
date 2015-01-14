@@ -28,6 +28,9 @@ header {
   text-align: center;
   position: relative;
 }
+.container{
+  padding-bottom: 40px;
+}
 header h1 {
   font-weight: 900;
 }
@@ -97,11 +100,11 @@ header .circle-icon {
   width: 40px;
   height: 40px;
   line-height: 41px;
-  -webkit-transition: background-color 500ms linear;
-  -moz-transition: background-color 500ms linear;
-  -o-transition: background-color 500ms linear;
-  -ms-transition: background-color 500ms linear;
-  transition: background-color 500ms linear;
+  -webkit-transition: background-color 1000ms linear;
+  -moz-transition: background-color 1000ms linear;
+  -o-transition: background-color 1000ms linear;
+  -ms-transition: background-color 1000ms linear;
+  transition: background-color 1000ms linear;
   -webkit-transition: border 500ms linear;
   -moz-transition: border 500ms linear;
   -o-transition: border 500ms linear;
@@ -111,11 +114,11 @@ header .circle-icon {
 .circle-icon.circle-transparent:hover{
     opacity: 1;
 
-  -webkit-transition: opacity 500ms linear;
-  -moz-transition: opacity 500ms linear;
-  -o-transition: opacity 500ms linear;
-  -ms-transition: opacity 500ms linear;
-  transition: opacity 500ms linear;
+  -webkit-transition: opacity 1000ms linear;
+  -moz-transition: opacity 1000ms linear;
+  -o-transition: opacity 1000ms linear;
+  -ms-transition: opacity 1000ms linear;
+  transition: opacity 1000ms linear;
   -webkit-transition: border 500ms linear;
   -moz-transition: border 500ms linear;
   -o-transition: border 500ms linear;

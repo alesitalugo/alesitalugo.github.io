@@ -6,7 +6,7 @@
     "description": "I am passionate about web development, I started by curiosity and the instruction of good teachers and friends. I consider myself as a self-taught person, who likes being in constant learning and to be trendy about web technologies.\nMy priority in the development is the user experience making interactive webapps, I consider as my favorite stack the use of tools like Grunt, with LiveReload and Sass/Compass for CSS. I Build mobile applications with PhoneGap.\nI am delighted with JavaScript and I'm currently learning to develop with frameworks like Angular and Node.js and strikes me using Arduino to interact with a webapp, I also love to create graphics with Processing and create sounds with SuperCollider."
   },
   "cover": {
-    "url": "https://www.flickr.com/photos/alesitalugo/2953944054/",
+    "url": "http://panplano.mx/images/ali/smiths.jpg",
     "attribution": "Alejandra Lugo @ Flickr"
   },
   "social": {
@@ -109,25 +109,25 @@
   	{
   		"name": "centraal",
   		"url": "http://centraal.com",
-  		"img": "http://placehold.it/280x150",
+  		"img": "http://panplano.mx/images/ali/centraal.png",
   		"stack": "Design, WordPress, Sass, Grunt"
   	},
   	{
   		"name": "esencial",
   		"url": "http://frontesencial.masclicks.org/",
-  		"img": "http://placehold.it/280x150",
+  		"img": "http://panplano.mx/images/ali/esencial.png",
   		"stack": "JavaScript, CSS3, CodeIgniter"
   	},
   	{
   		"name": "My Combee app",
   		"url": "",
-  		"img": "http://placehold.it/280x150",
+  		"img": "http://panplano.mx/images/ali/app.png",
   		"stack": "PhoneGap, Sass, JavaScript"
   	},
   	{
   		"name": "Wicked el musical",
   		"url": "http://wickedelmusical.com.mx",
-  		"img": "http://placehold.it/280x150",
+  		"img": "http://panplano.mx/images/ali/wicked.png",
   		"stack": "PhoneGap, Sass, JavaScript"
   	}
   ]

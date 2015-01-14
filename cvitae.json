@@ -118,17 +118,18 @@
   		"img": "http://panplano.mx/images/ali/esencial.png",
   		"stack": "JavaScript, CSS3, CodeIgniter"
   	},
-  	{
-  		"name": "My Combee app",
-  		"url": "",
-  		"img": "http://panplano.mx/images/ali/app.png",
-  		"stack": "PhoneGap, Sass, JavaScript"
-  	},
+  	
   	{
   		"name": "Wicked el musical",
   		"url": "http://wickedelmusical.com.mx",
   		"img": "http://panplano.mx/images/ali/wicked.png",
-  		"stack": "PhoneGap, Sass, JavaScript"
-  	}
+  		"stack": "WordPress, Sass, JavaScript"
+  	},
+    {
+      "name": "My Combee app",
+      "url": "",
+      "img": "http://panplano.mx/images/ali/app.png",
+      "stack": "PhoneGap, Sass, JavaScript"
+    }
   ]
 }
